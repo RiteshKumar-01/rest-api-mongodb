@@ -1,0 +1,7 @@
+step to foolow while connecting with mongdb
+
+1. first install dependecy and requir mongoose
+    1.1 connect with the mongodb local with port get from terminal i.e mongosh, 27017
+2. create schema(whatever field required)
+3. create model
+4. interact with mongdb
